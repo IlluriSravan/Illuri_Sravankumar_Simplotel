@@ -239,7 +239,7 @@
 }
 @media (min-width:480px) and (max-width:768px){
     .list-item{
-        font-size: 12px;
+        font-size: 16px;
         
         margin: 4px;
         letter-spacing: 0.5px;
